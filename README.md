@@ -1,4 +1,4 @@
-# Pilot: what prior does a trained network implement, against an exact Bayes reference?
+# AIXI Experiments
 
 ## Setup
 
