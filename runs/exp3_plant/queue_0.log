@@ -1,0 +1,22 @@
+[plant/m0] step      0  excess 0.95091 bits/pred  exch-pen 0.000  (4s)
+[plant/m0] step   1000  excess 0.03783 bits/pred  exch-pen 0.000  (125s)
+[plant/m0] step   2000  excess 0.02797 bits/pred  exch-pen 0.000  (246s)
+[plant/m0] step   3000  excess 0.02265 bits/pred  exch-pen 0.000  (365s)
+[plant/m0] step   4000  excess 0.01986 bits/pred  exch-pen 0.000  (482s)
+[plant/m0] step   5000  excess 0.01905 bits/pred  exch-pen 0.000  (601s)
+done plant/m0 642s
+[plant/m2] step      0  excess 0.83578 bits/pred  exch-pen 0.000  (5s)
+[plant/m2] step   1000  excess 0.04053 bits/pred  exch-pen 0.000  (102s)
+[plant/m2] step   2000  excess 0.02806 bits/pred  exch-pen 0.000  (203s)
+[plant/m2] step   3000  excess 0.02237 bits/pred  exch-pen 0.000  (302s)
+[plant/m2] step   4000  excess 0.01841 bits/pred  exch-pen 0.000  (400s)
+[plant/m2] step   5000  excess 0.01781 bits/pred  exch-pen 0.000  (497s)
+done plant/m2 537s
+[plant/m4] step      0  excess 0.90745 bits/pred  exch-pen 0.000  (3s)
+[plant/m4] step   1000  excess 0.04486 bits/pred  exch-pen 0.000  (106s)
+[plant/m4] step   2000  excess 0.02958 bits/pred  exch-pen 0.000  (203s)
+[plant/m4] step   3000  excess 0.02489 bits/pred  exch-pen 0.000  (297s)
+[plant/m4] step   4000  excess 0.02036 bits/pred  exch-pen 0.000  (396s)
+[plant/m4] step   5000  excess 0.01980 bits/pred  exch-pen 0.000  (499s)
+done plant/m4 539s
+PLANT_DONE

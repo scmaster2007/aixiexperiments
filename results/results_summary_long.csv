@@ -1,0 +1,2 @@
+run,layers,seed,params,excess_bits_per_pred,excess_at_half,leak_mass_mean,order_sd_bits,train_min
+L2_s0,2,0,100737,0.0031701643836128147,0.005459942841091057,0.003504744166408863,2.957481935911206,28.886960017681123

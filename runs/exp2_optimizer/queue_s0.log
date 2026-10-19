@@ -1,0 +1,38 @@
+[runs_opt/base_s0] step      0  excess 0.96747 bits/pred  exch-pen 0.000  (3s)
+[runs_opt/base_s0] step   1000  excess 0.02382 bits/pred  exch-pen 0.000  (104s)
+[runs_opt/base_s0] step   2000  excess 0.01642 bits/pred  exch-pen 0.000  (200s)
+[runs_opt/base_s0] step   3000  excess 0.01241 bits/pred  exch-pen 0.000  (295s)
+[runs_opt/base_s0] step   4000  excess 0.01060 bits/pred  exch-pen 0.000  (395s)
+[runs_opt/base_s0] step   5000  excess 0.00992 bits/pred  exch-pen 0.000  (495s)
+done runs_opt/base_s0 534s
+[runs_opt/is_s0] step      0  excess 0.96747 bits/pred  exch-pen 0.000  (3s)
+[runs_opt/is_s0] step   1000  excess 0.02169 bits/pred  exch-pen 0.000  (100s)
+[runs_opt/is_s0] step   2000  excess 0.01400 bits/pred  exch-pen 0.000  (197s)
+[runs_opt/is_s0] step   3000  excess 0.01115 bits/pred  exch-pen 0.000  (296s)
+[runs_opt/is_s0] step   4000  excess 0.00910 bits/pred  exch-pen 0.000  (400s)
+[runs_opt/is_s0] step   5000  excess 0.00869 bits/pred  exch-pen 0.000  (499s)
+done runs_opt/is_s0 540s
+[runs_opt/soft_s0] step      0  excess 0.96747 bits/pred  exch-pen 0.000  (3s)
+[runs_opt/soft_s0] step   1000  excess 0.02076 bits/pred  exch-pen 0.000  (210s)
+[runs_opt/soft_s0] step   2000  excess 0.01306 bits/pred  exch-pen 0.000  (410s)
+[runs_opt/soft_s0] step   3000  excess 0.01000 bits/pred  exch-pen 0.000  (603s)
+[runs_opt/soft_s0] step   4000  excess 0.00821 bits/pred  exch-pen 0.000  (793s)
+[runs_opt/soft_s0] step   5000  excess 0.00799 bits/pred  exch-pen 0.000  (989s)
+done runs_opt/soft_s0 1030s
+[runs_opt/exch_s0] step      0  excess 0.96747 bits/pred  exch-pen 0.000  (4s)
+Consider using tensor.detach() first. (Triggered internally at /__w/pytorch/pytorch/torch/csrc/autograd/generated/python_variable_methods.cpp:820.)
+  pen_hist.append(float(pen))
+[runs_opt/exch_s0] step   1000  excess 0.12463 bits/pred  exch-pen 0.316  (213s)
+[runs_opt/exch_s0] step   2000  excess 0.09936 bits/pred  exch-pen 0.171  (409s)
+[runs_opt/exch_s0] step   3000  excess 0.08244 bits/pred  exch-pen 0.168  (601s)
+[runs_opt/exch_s0] step   4000  excess 0.07296 bits/pred  exch-pen 0.157  (797s)
+[runs_opt/exch_s0] step   5000  excess 0.07175 bits/pred  exch-pen 0.141  (996s)
+done runs_opt/exch_s0 1039s
+[runs_opt/sam_s0] step      0  excess 0.96747 bits/pred  exch-pen 0.000  (4s)
+[runs_opt/sam_s0] step   1000  excess 0.02695 bits/pred  exch-pen 0.000  (244s)
+[runs_opt/sam_s0] step   2000  excess 0.01771 bits/pred  exch-pen 0.000  (486s)
+[runs_opt/sam_s0] step   3000  excess 0.01357 bits/pred  exch-pen 0.000  (725s)
+[runs_opt/sam_s0] step   4000  excess 0.01170 bits/pred  exch-pen 0.000  (954s)
+[runs_opt/sam_s0] step   5000  excess 0.01109 bits/pred  exch-pen 0.000  (1185s)
+done runs_opt/sam_s0 1222s
+OPT_DONE

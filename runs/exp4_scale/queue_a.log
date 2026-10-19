@@ -1,0 +1,7 @@
+[d128] step   1000  sequences   128000  excess 0.04503 bits/pred  (330s)
+[d128] step   2000  sequences   256000  excess 0.03255 bits/pred  (604s)
+[d128] step   4000  sequences   512000  excess 0.02249 bits/pred  (1099s)
+[d128] step   8000  sequences  1024000  excess 0.01602 bits/pred  (2002s)
+[d128] step  16000  sequences  2048000  excess 0.01144 bits/pred  (3776s)
+done scale/d128
+SCALE_DONE

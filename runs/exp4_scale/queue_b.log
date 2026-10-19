@@ -1,0 +1,12 @@
+[d32] step   1000  sequences   128000  excess 0.07033 bits/pred  (76s)
+[d32] step   2000  sequences   256000  excess 0.04921 bits/pred  (141s)
+[d32] step   4000  sequences   512000  excess 0.03653 bits/pred  (266s)
+[d32] step   8000  sequences  1024000  excess 0.02571 bits/pred  (507s)
+[d32] step  16000  sequences  2048000  excess 0.01951 bits/pred  (958s)
+done scale/d32
+[d64] step   1000  sequences   128000  excess 0.05300 bits/pred  (169s)
+[d64] step   2000  sequences   256000  excess 0.03870 bits/pred  (290s)
+[d64] step   4000  sequences   512000  excess 0.02959 bits/pred  (492s)
+[d64] step   8000  sequences  1024000  excess 0.02173 bits/pred  (885s)
+[d64] step  16000  sequences  2048000  excess 0.01505 bits/pred  (1647s)
+done scale/d64
