@@ -1,4 +1,4 @@
-# aixiexperiments
+# AIXI Experiments
 
 How far is a trained network's prior from an exact Solomonoff-style prior?
 
